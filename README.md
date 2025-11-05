@@ -1,7 +1,7 @@
 # Machine Learning–Based Prediction of Automobile Prices Using Multivariate Regression Analysis
 
 ## Abstract
-Developed a predictive modeling framework to estimate automobile prices using statistical and machine learning techniques. Conducted data preprocessing, feature selection, and regression modeling with Linear and SGD Regressors to analyze the impact of technical and design attributes on market value. . Comparative experiments employing Ordinary Least Squares (Linear Regression) and Stochastic Gradient Descent (SGD) models demonstrate that brand information and engine-related parameters significantly improve predictive accuracy highlighting the effectiveness of feature engineering in data-driven price estimation.
+Developed a predictive modeling framework to estimate automobile prices using statistical and machine learning techniques. Conducted data preprocessing, feature selection, and regression modeling with Linear and SGD Regressors to analyze the impact of technical and design attributes on market value. Comparative experiments employing Ordinary Least Squares (Linear Regression) and Stochastic Gradient Descent (SGD) models demonstrate that brand information and engine-related parameters significantly improve predictive accuracy highlighting the effectiveness of feature engineering in data-driven price estimation.
 
 ---
 
