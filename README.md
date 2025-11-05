@@ -55,7 +55,7 @@ The analytical workflow consisted of five key stages:
 | **Without Brand** | 2372.20 | 9.24×10⁶ | 3039.87 | **0.880** |
 
 **Observation:**  
-Including brand information improved the R² score by approximately **5.4%** and reduced MAE by **~20%**, confirming that brand identity captures essential latent market information beyond mechanical attributes.
+Including brand information improved the R² score by approximately **6.1%** and reduced MAE by **~24%**, confirming that brand identity captures essential latent market information beyond mechanical attributes.
 
 ---
 
@@ -67,7 +67,7 @@ Including brand information improved the R² score by approximately **5.4%** and
 | **Without Brand** | 2386.22 | 1.06×10⁷ | 3255.99 | **0.862** |
 
 **Observation:**  
-Brand inclusion led to a **5% R² improvement** and reduced MAE by nearly **14%**. Even with stochastic optimization, brand-level encoding consistently enhanced generalization, confirming its robustness across optimization paradigms.
+Brand inclusion led to a **5.4% R² improvement** and reduced MAE by nearly **14%**. Even with stochastic optimization, brand-level encoding consistently enhanced generalization, confirming its robustness across optimization paradigms.
 
 ---
 
@@ -75,7 +75,7 @@ Brand inclusion led to a **5% R² improvement** and reduced MAE by nearly **14%*
 
 | Model Type | Brand Encoding | ΔR² | ΔMAE (%) 
 |-------------|----------------|------|-----------
-| Linear Regression | ✅ Included | +0.054 | −20% |
+| Linear Regression | ✅ Included | +0.054 | −24% |
 | SGD Regressor | ✅ Included | +0.047 | −14% |
 
 ---
